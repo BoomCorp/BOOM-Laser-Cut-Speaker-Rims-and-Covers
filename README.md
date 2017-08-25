@@ -1,4 +1,4 @@
-# BOOM Laser Cut Speaker Cover
+# BOOM Laser Cut Speaker Rims and Covers
 
 Ornamental speaker cover for 13.5cm diameter speaker.
 Download the open source [SVG File](https://github.com/BoomCorp/BOOM-Laser-Cut-Speaker-Cover/raw/master/svgs/BOOM%20Speaker%20Cover%201.svg.zip)
