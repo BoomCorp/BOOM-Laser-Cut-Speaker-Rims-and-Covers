@@ -2,7 +2,7 @@
 
 Laser cutting is a great way to achieve complex forms with very high precission, but it has it's limitations.
 
-When you mount the covers on your speaker you might some times wish it's corners where smoother than the right angles the laser cutter delivers.
+When you mount the covers on your speaker you might some times wish its corners where smoother than the right angles the laser cutter delivers.
 
 CNC routers could be an alternative, but you would have to switch router bits quite often and the precission might not be the same.
 
