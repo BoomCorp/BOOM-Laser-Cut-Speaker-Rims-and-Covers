@@ -25,7 +25,7 @@ Download the open source [SVG File](https://github.com/BoomCorp/BOOM-Laser-Cut-S
 
 <p align="center">
   <img src="pics/BOOM Speaker Cover 2.jpg" width="350"/>
-  <img src="pics/BOOM Speaker Cover 2 svg preview.png" width="350"/>
+  <img src="pics/BOOM Speaker Cover 2 svg preview.jpg" width="350"/>
 </p>
 
 ***
@@ -35,7 +35,7 @@ Download the open source [SVG File](https://github.com/BoomCorp/BOOM-Laser-Cut-S
 
 <p align="center">
   <img src="pics/BOOM Speaker Cover 3.jpg" width="350"/>
-  <img src="pics/BOOM Speaker Cover 3 svg preview.png" width="350"/>
+  <img src="pics/BOOM Speaker Cover 3 svg preview.jpg" width="350"/>
 </p>
 
 ***
